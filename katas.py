@@ -5,7 +5,7 @@ Math functions to be tested with test_katas.py
 Students should not change this file.
 """
 
-__author__ = 'madarp and Q3 friends'
+__author__ = 'Robert Havelaar'
 
 
 def add(x, y):
