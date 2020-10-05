@@ -3,7 +3,7 @@
 Solution module for Test Katas
 """
 
-__author__ = 'madarp'
+__author__ = 'Robert Havelaar'
 
 import unittest
 import random
